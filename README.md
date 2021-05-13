@@ -22,7 +22,7 @@
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hexrider/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hexridder/URLuploader-With-Hotstar)
 
 #### Run in your VPS
 
