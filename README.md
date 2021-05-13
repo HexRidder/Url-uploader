@@ -1,16 +1,16 @@
-## -Urluploader-with-Hotstar :- Nexon Projects
+## Url Uploader (Nx)
 
-#### If you find any bugs, report to [Shon](https://telegram.dog/Fabio_TG)
+#### If you find any bugs, report to [Shon](https://telegram.dog/Hexrider)
 
 ### Features ❔
 
-🍁 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+• All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
-🍁 Upload as file from any HTTP link
+• Upload as file from any HTTP link
 
-🍁 Permanent thumbnail support.
+• Permanent thumbnail support.
 
-🍁 Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
+• Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
 
 
 
@@ -22,7 +22,7 @@
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/prgofficial/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hexrider/URLuploader-With-Hotstar)
 
 #### Run in your VPS
 
