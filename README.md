@@ -39,5 +39,8 @@ python3 bot.py
 * /ᴅᴇʟᴇᴛᴇᴛʜᴜᴍʙɴᴀɪʟ   - Cʟᴇᴀʀ sᴀᴠᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ
 * /sʜᴏᴡᴛʜᴜᴍʙ         - Sʜᴏᴡ sᴀᴠᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ
 
-### Sᴜᴘᴘᴏʀᴛ
-[NᴇxᴏɴHᴇx](https://telegram.me/Nexonhex)
+### Thanks and credits To Belowed devolopers
+
+[Heiman Creatiin ®️](https://t.me/HeimanCreatiin)
+[Mʀ. A | Ts Bots](https://t.me/Trackstudio)
+[DIAGO !](https://t.me/DIAGO_X)
