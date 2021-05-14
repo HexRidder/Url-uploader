@@ -13,17 +13,17 @@
 • Aᴅᴅᴇᴅ HOTSTAR Lɪɴᴋ Sᴜᴘᴘᴏʀᴛ!!  (Wᴏɴ'ᴛ ᴡᴏʀᴋ ᴏɴ Eᴜʀᴏᴘᴇᴀɴ Sᴇʀᴠᴇʀs!!)<b>
 
 
-### Installation
+### Iɴsᴛᴀʟʟᴀᴛɪᴏɴ
 
-☇ The Easiest Way
+☇ Tʜᴇ Eᴀsɪᴇsᴛ Wᴀʏ
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**Uᴘɢʀᴀᴅᴇ** ʏᴏᴜʀ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ғᴏʀ [@AɴʏDLBᴏᴛ](https://telegram.dog/AnyDLBot) ᴡɪᴛʜᴏᴜᴛ ʜᴀᴠɪɴɢ ᴛᴏ ʀᴜɴ ᴀɴʏᴛʜɪɴɢ ᴏɴ ʏᴏᴜʀ ᴏᴡɴ
 
-#### Deploy to Heroku
+#### Dᴇᴘʟᴏʏ ᴛᴏ Hᴇʀᴏᴋᴜ
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Hexridder/URLuploader-With-Hotstar)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Prgofficial/URLuploader-With-Hotstar)
 
-#### Run in your VPS
+#### Rᴜɴ ɪɴ ʏᴏᴜʀ VPS
 
 Git Clone Link Is Currently Unuvaivable . 
 Soon Avaivable
