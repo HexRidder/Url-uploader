@@ -25,17 +25,15 @@
 
 #### Rᴜɴ ɪɴ ʏᴏᴜʀ VPS
 
-Git Clone Link Is Currently Unuvaivable . 
-Soon Avaivable
+ Gɪᴛ Cʟᴏɴᴇ Lɪɴᴋ : (https://github.com/HexRidder/Url-uploader)
 
+### Cᴏᴍᴍᴀɴᴅs
 
-### Commands
+* /sᴛᴀʀᴛ             - Cʜᴇᴄᴋ ɪғ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ
+* /ʜᴇʟᴘ              - Tᴏ ᴋɴᴏᴡ ʜᴏᴡ ᴛʜᴇ ʙᴏᴛ ᴡᴏʀᴋs
+* /ᴜᴘɢʀᴀᴅᴇ           - Nᴏᴛʜɪɴɢ ᴍᴜᴄʜ ʜᴇʀᴇ
+* /ᴅᴇʟᴇᴛᴇᴛʜᴜᴍʙɴᴀɪʟ   - Cʟᴇᴀʀ sᴀᴠᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ
+* /sʜᴏᴡᴛʜᴜᴍʙ         - Sʜᴏᴡ sᴀᴠᴇᴅ ᴛʜᴜᴍʙɴᴀɪʟ
 
-* /start             - Check if bot is alive
-* /help              - To know how the bot works
-* /upgrade           - Nothing much here
-* /deletethumbnail   - Clear saved thumbnail
-* /showthumb         - Show saved thumbnail
-
-### Support
-[NexonHex](https://telegram.me/Nexonhex)
+### Sᴜᴘᴘᴏʀᴛ
+[NᴇxᴏɴHᴇx](https://telegram.me/Nexonhex)
