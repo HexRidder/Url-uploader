@@ -24,13 +24,13 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Prgofficial/URLuploader-With-Hotstar)
 
 #### Rᴜɴ ɪɴ ʏᴏᴜʀ VPS
-"""sh
+```sh
  git clone https://github.com/Hexridder/url-uploader
 cd Url-uploader
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
-"""
+```
 ### Cᴏᴍᴍᴀɴᴅs
 
 * /sᴛᴀʀᴛ             - Cʜᴇᴄᴋ ɪғ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ
