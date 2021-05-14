@@ -41,8 +41,8 @@ python3 bot.py
 
 ### Thanks and credits To Belowed devolopers
 
-[Heiman Creatiin ®️](https://t.me/HeimanCreatiin)
+• [Heiman Creatiin ®️](https://t.me/HeimanCreatiin)
 
-[Mʀ. A | Ts Bots](https://t.me/Trackstudio)
+• [Mʀ. A | Ts Bots](https://t.me/Trackstudio)
 
-[DIAGO !](https://t.me/DIAGO_X)
+• [DIAGO !](https://t.me/DIAGO_X)
