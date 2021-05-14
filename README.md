@@ -25,7 +25,11 @@
 
 #### Rᴜɴ ɪɴ ʏᴏᴜʀ VPS
 
- Gɪᴛ Cʟᴏɴᴇ Lɪɴᴋ : (https://github.com/HexRidder/Url-uploader)
+ git clone https://github.com/Hexridder/url-uploader
+cd Url-uploader
+pip3 install -r requirements.txt
+# <Create config.py appropriately>
+python3 bot.py
 
 ### Cᴏᴍᴍᴀɴᴅs
 
