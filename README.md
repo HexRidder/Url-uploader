@@ -4,13 +4,13 @@
 
 ###  Wʜᴀᴛ Cᴀɴ I Dᴏ ❔
 
-• Aʟʟ Sᴜᴘᴘᴏʀᴛᴇᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛs ᴏғ (https://rg3.github.io/youtube-dl/supportedsites.html)
+<b>• Aʟʟ Sᴜᴘᴘᴏʀᴛᴇᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛs ᴏғ (https://rg3.github.io/youtube-dl/supportedsites.html)
 
 • Uᴘʟᴏᴀᴅ ᴀs ғɪʟᴇ ғʀᴏᴍ ᴀɴʏ HTTP ʟɪɴᴋ
 
 • Pᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ.
 
-• Aᴅᴅᴇᴅ HOTSTAR Lɪɴᴋ Sᴜᴘᴘᴏʀᴛ!!  (Wᴏɴ'ᴛ ᴡᴏʀᴋ ᴏɴ Eᴜʀᴏᴘᴇᴀɴ Sᴇʀᴠᴇʀs!!)
+• Aᴅᴅᴇᴅ HOTSTAR Lɪɴᴋ Sᴜᴘᴘᴏʀᴛ!!  (Wᴏɴ'ᴛ ᴡᴏʀᴋ ᴏɴ Eᴜʀᴏᴘᴇᴀɴ Sᴇʀᴠᴇʀs!!)<b>
 
 
 ### Installation
