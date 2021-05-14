@@ -1,6 +1,6 @@
 ## Uʀʟ Uᴘʟᴏᴀᴅᴇʀ (Nx)
 
-#### If you find any bugs, report to [Shon](https://telegram.dog/Hexrider)
+#### Iғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs, ʀᴇᴘᴏʀᴛ ᴛᴏ [Sʜᴏɴ](https://telegram.dog/Hexrider)
 
 ### Features ❔
 
