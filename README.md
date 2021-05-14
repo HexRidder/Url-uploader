@@ -1,4 +1,4 @@
-## Url Uploader (Nx)
+## Uʀʟ Uᴘʟᴏᴀᴅᴇʀ (Nx)
 
 #### If you find any bugs, report to [Shon](https://telegram.dog/Hexrider)
 
