@@ -2,16 +2,15 @@
 
 #### Iғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs, ʀᴇᴘᴏʀᴛ ᴛᴏ [Sʜᴏɴ](https://telegram.dog/Hexrider)
 
-### Features ❔
+### Wʜᴀᴛ Cᴀɴ I Dᴏ ❔
 
-• All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
+• Aʟʟ Sᴜᴘᴘᴏʀᴛᴇᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛs ᴏғ (https://rg3.github.io/youtube-dl/supportedsites.html)
 
-• Upload as file from any HTTP link
+• Uᴘʟᴏᴀᴅ ᴀs ғɪʟᴇ ғʀᴏᴍ ᴀɴʏ HTTP ʟɪɴᴋ
 
-• Permanent thumbnail support.
+• Pᴇʀᴍᴀɴᴇɴᴛ ᴛʜᴜᴍʙɴᴀɪʟ sᴜᴘᴘᴏʀᴛ.
 
-• Added HOTSTAR Link Support!!  (Won't work on European Servers!!)
-
+• Aᴅᴅᴇᴅ HOTSTAR Lɪɴᴋ Sᴜᴘᴘᴏʀᴛ!!  (Wᴏɴ'ᴛ ᴡᴏʀᴋ ᴏɴ Eᴜʀᴏᴘᴇᴀɴ Sᴇʀᴠᴇʀs!!)
 
 
 ### Installation
