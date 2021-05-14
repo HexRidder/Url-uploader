@@ -1,8 +1,8 @@
-## Uʀʟ Uᴘʟᴏᴀᴅᴇʀ (Nx)
+##  Uʀʟ Uᴘʟᴏᴀᴅᴇʀ (Nx)
 
 #### Iғ ʏᴏᴜ ғɪɴᴅ ᴀɴʏ ʙᴜɢs, ʀᴇᴘᴏʀᴛ ᴛᴏ [Sʜᴏɴ](https://telegram.dog/Hexrider)
 
-### Wʜᴀᴛ Cᴀɴ I Dᴏ ❔
+###  Wʜᴀᴛ Cᴀɴ I Dᴏ ❔
 
 • Aʟʟ Sᴜᴘᴘᴏʀᴛᴇᴅ Vɪᴅᴇᴏ Fᴏʀᴍᴀᴛs ᴏғ (https://rg3.github.io/youtube-dl/supportedsites.html)
 
